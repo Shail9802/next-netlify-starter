@@ -13,7 +13,7 @@ export default function Home() {
       <main>
         <Header title="Welcome to my app!" />
         <p class Name="description">
-         Welcome To My Blog
+         This Blog belongs to DCPower
       </main>
 
       <Footer />
